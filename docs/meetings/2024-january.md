@@ -7,9 +7,7 @@ title: January 2024
 
 **Loughborough University, Tue 16 Jan 2024, 10:30am to 4pm**
 
-**Talks, sandpits, networking**  
-Lunch provided, travel and caring funding availability  
-Sign up link: Comparative Judgement Users’ Day Meeting
+**Funded by the National Centre for Research Methods**
 
 ## Agenda
 
