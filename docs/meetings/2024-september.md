@@ -7,8 +7,7 @@ title: September 2024
 
 **Friday 20 September 2024, 11am to 4pm, reception from 10am**
 
-**De Montford University, 1 Richmond street**  
-It’s the building with the red door, located on number 44 on this map (PDF).
+**De Montford University, Leicester**  
 
 **Funded by the National Centre for Research Methods**
 
