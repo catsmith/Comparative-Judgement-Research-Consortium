@@ -3,7 +3,7 @@ id: 2024-september
 title: September 2024
 ---
 
-# Comparative Judgement Users’ Day Meeting
+# The 2nd Comparative Judgement Users’ Day Meeting
 
 **Friday 20 September 2024, 11am to 4pm, reception from 10am**
 
