@@ -5,7 +5,9 @@ This repository was set up after the inaugural <a href="https://www.ncrm.ac.uk/"
 
 ## Aim of the Repository
 
-The aim is...
+The aim is to bring together researchers from all kinds of disciplines who use or develop comparative judgement methods. The repository was started in 2024 and we aim to continually populate it with archived comparative judgement datasets, links to tools for generating datasets, code and packages for analysing datasets, a bibliography of relevant scientific papers, guidance for researchers, and records of our day meetings, online reading group meetings and other events and activities.
+
+Please join us and contribute if you are interested in comparative judgement for research.
 
 ---
 
