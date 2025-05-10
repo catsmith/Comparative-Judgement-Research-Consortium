@@ -13,7 +13,8 @@ sidebar:
     - label: Resources
       children:
         - articles
-        - software
+        - guidance
         - repo
+        - software
     - reading_group
     - barriers
