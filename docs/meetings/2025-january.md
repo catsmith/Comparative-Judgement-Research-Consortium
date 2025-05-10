@@ -3,12 +3,12 @@ id: 2025-january
 title: January 2025
 ---
 
-# Comparative Judgement Users’ Day Meeting
+# The 3rd Comparative Judgement Users’ Day Meeting
 
 **Friday 17th January 2025, 11am to 4pm, reception from 10am**
 
-**University of Birmingham, Elm House, 351 Bristol Road**  
-Edgbaston, Birmingham, B15 2TT
+**University of Birmingham**  
+
 
 **Funded by the London Mathematical Society Workshop Grant [WS-2324-09] and a UKRI Future Leaders Fellowship [MR/X034992/1]**
 
