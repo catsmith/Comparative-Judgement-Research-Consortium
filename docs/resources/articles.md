@@ -17,13 +17,16 @@ title: Articles
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
 |Scalable Bayesian inference for Bradley–Terry models with ties: an application to honour based abuse|Journal of Applied Statistics|[Paper](https://www.tandfonline.com/doi/full/10.1080/02664763.2024.2436608)|[speedyBBT R Pakcage](https://cran.r-project.org/package=speedyBBT) [Data Collection Interface](https://github.com/HiddenHarmsHub/comparison-interface)| |  |
-| Comparative judgement in education research | International Journal of Research & Method in Education. 47(2) | [paper](https://doi.org/10.1080/1743727X.2023.2242273) || | |
+| Comparative judgement in education research | International Journal of Research & Method in Education. 47(2) | [paper](https://doi.org/10.1080/1743727X.2023.2242273) || | [further guidance](https://tinyurl.com/NMM4researchers) |
+| Testing the Relationship of Linguistic Complexity to Second Language Learners’ Comparative Judgment on Text Difficulty | Language Learning, 74(3) | [paper](https://doi.org/10.1111/lang.12633) | [data](https://osf.io/qxgte/?view_only=973c0b7901354a41a71c3741204be20a) | | |
 
 ## 2023
 
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
 | A Bayesian Active Learning Approach to Comparative Judgement | arXiv | [paper](https://arxiv.org/abs/2308.13292) | | `Edu.` |
+| Learning words with unfamiliar orthography: The role of cognitive abilities | Studies in Second Language Acquisition, 45(4) | [paper](https://doi.org/10.1017/S0272263122000390) | |  |
+| The Effects of Concreteness on Mathematical Manipulative Choice | Mind, Brain, and Education, 17(3) | [paper](https://doi.org/10.1111/mbe.12374) | [data](https://osf.io/grf49/?view_only=cf864ec044df48d8bb535f1f0e63ac74) ||
 
 ## 2022
 
@@ -36,7 +39,7 @@ title: Articles
 
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
-| The Bayesian Spatial Bradley–Terry model: Urban deprivation modelling in Tanzania | Journal of the Royal Statistical Society: Series C| [Paper](https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/rssc.12532)  |[BSBT R Package](https://github.com/rowlandseymour/BSBT) | | |
+| The Bayesian Spatial Bradley–Terry model: Urban deprivation modelling in Tanzania | Journal of the Royal Statistical Society: Series C| [paper](https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/rssc.12532)  |[BSBT R Package](https://github.com/rowlandseymour/BSBT) | | |
 | Improving Self-Reflection Assessment Practices: Comparative Judgment as an Alternative to Rubrics. | |   | | | |
 | What do mathematicians mean by proof? A comparative-judgement study of students’ and mathematicians’ views. | |   | | | |
 
@@ -53,6 +56,7 @@ title: Articles
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
 | Teaching using contextualised and decontextualised representations: Examining the case of differential calculus through a comparative judgement technique. | Research in Mathematics Education, 22, 284–303. | [paper](https://doi.org/10.1080/14794802.2019.1692060) | | | |
+| Crop variety management for climate adaptation supported by citizen science | Proceedings of the National Academy of Sciences of the United States of America, 116(10) | [paper](https://doi.org/10.1073/pnas.1813720116) | [data](https://doi.org/10.7910/DVN/4ICF6W) | |
 
 ## 2018
 
@@ -75,7 +79,7 @@ title: Articles
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
 | Measuring conceptual understanding using comparative judgement. | International Journal of Research in Undergraduate Mathematics Education, 2, 141–164. | [paper](https://doi.org.uk/10.1007/s40753-016-0024-3) | |
-| Fifty years of A-level mathematics: Have standards changed? |  | [paper](https://doi.org/10.1002/berj.3224) | | | |
+| Fifty years of A-level mathematics: Have standards changed? | British Educational Research Journal, 42(4) | [paper](https://doi.org/10.1002/berj.3224) | | | [open version](https://mjinglis.github.io/files/BERJpre.pdf) |
 
 
 ## 2015
