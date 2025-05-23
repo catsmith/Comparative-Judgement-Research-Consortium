@@ -19,6 +19,7 @@ title: Articles
 |Scalable Bayesian inference for Bradley–Terry models with ties: an application to honour based abuse|Journal of Applied Statistics|[Paper](https://www.tandfonline.com/doi/full/10.1080/02664763.2024.2436608)|[speedyBBT R Pakcage](https://cran.r-project.org/package=speedyBBT) [Data Collection Interface](https://github.com/HiddenHarmsHub/comparison-interface)| |  |
 | Comparative judgement in education research | International Journal of Research & Method in Education. 47(2) | [paper](https://doi.org/10.1080/1743727X.2023.2242273) || | [further guidance](https://tinyurl.com/NMM4researchers) |
 | Testing the Relationship of Linguistic Complexity to Second Language Learners’ Comparative Judgment on Text Difficulty | Language Learning, 74(3) | [paper](https://doi.org/10.1111/lang.12633) | [data](https://osf.io/qxgte/?view_only=973c0b7901354a41a71c3741204be20a) | | |
+| Do Mathematicians Agree about Mathematical Beauty? | Review of Philosophy and Psychology | [paper](https://doi.org/10.1007/s13164-022-00669-3) | | |
 
 ## 2023
 
