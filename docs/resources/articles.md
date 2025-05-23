@@ -33,6 +33,7 @@ title: Articles
 | Title        | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: |  :----: | :----: |----|----|
 | Using Elo rating as a metric for comparative judgement in educational assessment | ACM | [paper](https://doi.org/10.1145/3551708.3556204) | | |
+| A diagnostic framework for the Bradley–Terry model | Journal of the Royal Statistical Society: Series A (Statistics in Society) | [paper](https://doi.org/10.1111/rssa.12959) | | |
 
 
 ## 2021
