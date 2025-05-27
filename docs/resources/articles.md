@@ -4,11 +4,11 @@ title: Articles
 ---
 ## 2025
 
-| Title        | Publication |  Paper  |  Code  | Tags | Notes |
-| --------     | :-----: |  :----: | :----: |----|----|
-| Comparative judgement modelling to map forced marriage at local levels | Ann. Appl. Stat. 19(1): 419-439. | [paper](https://doi.org/10.1214/24-AOAS1966) | [speedyBBT](https://cran.r-project.org/package=speedyBBT) | | |
-| Sleep supports consolidation of newly learned mathematical concepts. |  Quarterly Journal of Experimental Psychology | [paper](https://doi.org/10.1177/17470218251317885) || | |
-| Enabling Beam Search for Language Model-Based Text-to-Speech Synthesis |  ICASSP 2025 | [paper](https://doi.org/10.1109/ICASSP49660.2025.10890055) || | |
+| Title        | Authors | Publication |  Paper  |  Code  | Tags | Notes |
+| --------     | :-----: | :-----: |  :----: | :----: |----|----|
+| Comparative judgement modelling to map forced marriage at local levels |  Rowland Seymour, Albert Nyarko-Agyei, Helen McCabe, Katie Severn, David Sirl, Theodore Kypraios, Adam Taylor | Ann. Appl. Stat. 19(1): 419-439.  | [paper](https://doi.org/10.1214/24-AOAS1966) | [speedyBBT](https://cran.r-project.org/package=speedyBBT) | | |
+| Sleep supports consolidation of newly learned mathematical concepts. | John J Shaw,  Marie-Josee Bisson | Quarterly Journal of Experimental Psychology | [paper](https://doi.org/10.1177/17470218251317885) || | |
+| Enabling Beam Search for Language Model-Based Text-to-Speech Synthesis | Zehai Tu, Guangyan Zhang, Yiting Lu, Adaeze Adigwe, Simon King, Yiwen Guo | ICASSP 2025 | [paper](https://doi.org/10.1109/ICASSP49660.2025.10890055) || | |
 
 
 
