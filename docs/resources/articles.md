@@ -26,8 +26,7 @@ title: Articles
 | Title        | Authors | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: | :-----: |  :----: | :----: |----|----|
 | A Bayesian Active Learning Approach to Comparative Judgement | Andy Gray, Alma Rahat, Tom Crick, Stephen Lindsay | arXiv | [paper](https://arxiv.org/abs/2308.13292) | | `Edu.` |
-| Learning words with unfamiliar orthography: The role of cognitive abilities | Marie-Josée Bisson |
- | Studies in Second Language Acquisition, 45(4) | [paper](https://doi.org/10.1017/S0272263122000390) | |  |
+| Learning words with unfamiliar orthography: The role of cognitive abilities | Marie-Josée Bisson | Studies in Second Language Acquisition, 45(4) | [paper](https://doi.org/10.1017/S0272263122000390) | |  |
 | The Effects of Concreteness on Mathematical Manipulative Choice | Megan Foulkes, Francesco Sella, Theresa Elise Wege, Camilla Gilmore | Mind, Brain, and Education, 17(3) | [paper](https://doi.org/10.1111/mbe.12374) | [data](https://osf.io/grf49/?view_only=cf864ec044df48d8bb535f1f0e63ac74) ||
 
 ## 2022
