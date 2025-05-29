@@ -39,72 +39,72 @@ title: Articles
 
 ## 2021
 
-| Title        | Publication |  Paper  |  Code  | Tags | Notes |
-| --------     | :-----: |  :----: | :----: |----|----|
-| The Bayesian Spatial Bradley–Terry model: Urban deprivation modelling in Tanzania | Journal of the Royal Statistical Society: Series C| [paper](https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/rssc.12532)  |[BSBT R Package](https://github.com/rowlandseymour/BSBT) | | |
-| Improving Self-Reflection Assessment Practices: Comparative Judgment as an Alternative to Rubrics. | |   | | | |
-| What do mathematicians mean by proof? A comparative-judgement study of students’ and mathematicians’ views. | |   | | | |
+| Title        | Authors | Publication |  Paper  |  Code  | Tags | Notes |
+| --------     | :-----: | :-----: |  :----: | :----: |----|----|
+| The Bayesian Spatial Bradley–Terry model: Urban deprivation modelling in Tanzania | Rowland G. Seymour, David Sirl, Simon P. Preston, Ian L. Dryden, Madeleine J. A. Ellis, Bertrand Perrat, James Goulding | Journal of the Royal Statistical Society: Series C| [paper](https://doi.org/10.1111/rssc.12532)  |[BSBT R Package](https://github.com/rowlandseymour/BSBT) | | |
+| Improving Self-Reflection Assessment Practices: Comparative Judgment as an Alternative to Rubrics. | Liesje Coertjens, Marije Lesterhuis, Benedicte Y. De Winter, Maarten Goossens, Sven De Maeyer, Nele R. M. Michels | Teaching and Learning in Medicine  | [paper](https://doi.org/10.1080/10401334.2021.1877709)  | | | |
+| What do mathematicians mean by proof? A comparative-judgement study of students’ and mathematicians’ views. | Ben Davies, Lara Alcock, Ian Jones | The Journal of Mathematical Behavior | [paper](https://doi.org/10.1016/j.jmathb.2020.100824) | | | |
 
 
 ## 2020
 
-| Title        | Publication |  Paper  |  Code  | Tags | Notes |
-| --------     | :-----: |  :----: | :----: |----|----|
-| Comparative judgement, proof summaries and proof comprehension. | |   | | | |
+| Title        | Authors | Publication |  Paper  |  Code  | Tags | Notes |
+| --------     | :-----: | :-----: |  :----: | :----: |----|----|
+| Comparative judgement, proof summaries and proof comprehension. | Ben Davies, Lara Alcock, Ian Jones  | Educational Studies in Mathematics | [paper](https://doi.org/10.1007/s10649-020-09984-x)  | | | |
 
 
 ## 2019
 
-| Title        | Publication |  Paper  |  Code  | Tags | Notes |
-| --------     | :-----: |  :----: | :----: |----|----|
-| Teaching using contextualised and decontextualised representations: Examining the case of differential calculus through a comparative judgement technique. | Research in Mathematics Education, 22, 284–303. | [paper](https://doi.org/10.1080/14794802.2019.1692060) | | | |
-| Crop variety management for climate adaptation supported by citizen science | Proceedings of the National Academy of Sciences of the United States of America, 116(10) | [paper](https://doi.org/10.1073/pnas.1813720116) | [data](https://doi.org/10.7910/DVN/4ICF6W) | |
+| Title        | Authors | Publication |  Paper  |  Code  | Tags | Notes |
+| --------     | :-----: | :-----: |  :----: | :----: |----|----|
+| Teaching using contextualised and decontextualised representations: Examining the case of differential calculus through a comparative judgement technique. | Marie-Josée Bisson, Camilla Gilmore, Matthew Inglis, Ian Jones| Research in Mathematics Education. | [paper](https://doi.org/10.1080/14794802.2019.1692060) | | | |
+| Crop variety management for climate adaptation supported by citizen science | Jacob van Etten, Kauê de Sousa, Amílcar Aguilar, Jonathan Steinke | Proceedings of the National Academy of Sciences of the United States of America | [paper](https://doi.org/10.1073/pnas.1813720116) | [data](https://doi.org/10.7910/DVN/4ICF6W) | |
 
 ## 2018
 
-| Title        | Publication |  Paper  |  Code  | Tags | Notes |
-| --------     | :-----: |  :----: | :----: |----|----|
-| The effect of adaptivity on the reliability coefficient in adaptive comparative judgement. | Assessment in Education: Principles, Policy & Practice, 26, 43–58. | [paper](https://doi.org/10.1080/0969594x.2017.1418734) |  | `Edu.` | |
-| Why rate when you could compare? Using the “EloChoice” package to assess pairwise comparisons of perceived physical strength. | | | |
+| Title        | Authors | Publication |  Paper  |  Code  | Tags | Notes |
+| --------     | :-----: | :-----: |  :----: | :----: |----|----|
+| The effect of adaptivity on the reliability coefficient in adaptive comparative judgement. | Tom Bramley &Sylvia Vitello
+Pages 43-58 | Received 23 Dec 2016, Ac | Assessment in Education: Principles, Policy & Practice. | [paper](https://doi.org/10.1080/0969594x.2017.1418734) |  |  | |
+| Why rate when you could compare? Using the “EloChoice” package to assess pairwise comparisons of perceived physical strength. | Andrew P. Clark, Kate L. Howard, Andy T. Woods, Ian S. Penton-Voak, Christof Neumann | PLoS ONE | [paper](https://doi.org/10.1080/0969594X.2017.1418734) | | |
 
 
 ## 2017
 
-| Title        | Publication |  Paper  |  Code  | Tags | Notes |
-| --------     | :-----: |  :----: | :----: |----|----|
-| Frozen suit: designing a changeable stiffness suit and its application to increase realism in games. | ACM | [paper](https://doi.org/10.1145/3025453.3025655) | |
-| The complexity of assessing student work using comparative judgment: The moderating role of decision accuracy.|  |   | | | |
-| An investigation of construct relevant and irrelevant features of mathematics problem-solving questions using comparative judgement and Kelly’s Repertory Grid. |  |   | | | |
+| Title        | Authors | Publication |  Paper  |  Code  | Tags | Notes |
+| --------     | :-----: | :-----: |  :----: | :----: |----|----|
+| Frozen suit: designing a changeable stiffness suit and its application to increase realism in games. | Ahmed Al Maimani, Anne Roudaut | Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems | [paper](https://doi.org/10.1145/3025453.3025655) | |
+| The complexity of assessing student work using comparative judgment: The moderating role of decision accuracy.| Tine van Daal, Marije Lesterhuis, Liesje Coertjens, Liesje Coertjens, Marie-Thérèse van de Kamp, Vincent Donche, Vincent Donche, Sven De Maeyer, Sven De Maeyer | Frontiers in Education | [paper](https://doi.org/10.3389/feduc.2017.00044) | | | |
+| An investigation of construct relevant and irrelevant features of mathematics problem-solving questions using comparative judgement and Kelly’s Repertory Grid. | Stephen Holmes, Qingping He, Michelle Meadows| Research in Mathematics Education  | [paper](https://doi.org/10.1080/14794802.2017.1334576)  | | | |
 
 ## 2016
 
-| Title        | Publication |  Paper  |  Code  | Tags | Notes |
-| --------     | :-----: |  :----: | :----: |----|----|
-| Measuring conceptual understanding using comparative judgement. | International Journal of Research in Undergraduate Mathematics Education, 2, 141–164. | [paper](https://doi.org.uk/10.1007/s40753-016-0024-3) | |
-| Fifty years of A-level mathematics: Have standards changed? | British Educational Research Journal, 42(4) | [paper](https://doi.org/10.1002/berj.3224) | | | [open version](https://mjinglis.github.io/files/BERJpre.pdf) |
+| Title        | Authors | Publication |  Paper  |  Code  | Tags | Notes |
+| --------     | :-----: | :-----: |  :----: | :----: |----|----|
+| Measuring conceptual understanding using comparative judgement. | Marie-Josée Bisson, Camilla Gilmore, Matthew Inglis, Ian Jones | International Journal of Research in Undergraduate Mathematics Education | [paper](https://doi.org/10.1007/s40753-016-0024-3) | |
+| Fifty years of A-level mathematics: Have standards changed? | Ian Jones, Chris Wheadon, Sara Humphries, Matthew Inglis | British Educational Research Journal | [paper](https://doi.org/10.1002/berj.3224) | | | [open version](https://mjinglis.github.io/files/BERJpre.pdf) |
 
 
 ## 2015
 
-| Title        | Publication |  Paper  |  Code  | Tags | Notes |
-| --------     | :-----: |  :----: | :----: |----|----|
-| Is comparative judgment more efficient? An explorative study into the reliability efficiency trade-off when using rubrics or comparative judgment. | :-----: |  :----: | 
-| The problem of assessing problem solving: Can comparative judgement help?| | [paper](https://doi.org/10.1007/s10649-015-9607-1) | | 
-| Peer assessment using comparative and absolute judgement. | | [paper](https://doi.org/10.1016/j.stueduc.2015.09.004) | | 
+| Title        | Authors | Publication |  Paper  |  Code  | Tags | Notes |
+| --------     | :-----: | :-----: |  :----: | :----: |----|----|
+| The problem of assessing problem solving: Can comparative judgement help?| Ian Jones, Matthew Inglis | Educational Studies in Mathematics  | [paper](https://doi.org/10.1007/s10649-015-9607-1) | | 
+| Peer assessment using comparative and absolute judgement. | Ian Jones, Chris Wheadon| Studies in Educational Evaluation | [paper](https://doi.org/10.1016/j.stueduc.2015.09.004) | | 
 :----: |----|----|
 
 
 ## 2014
 
-| Title        | Publication |  Paper  |  Code  | Tags | Notes |
-| --------     | :-----: |  :----: | :----: |----|----|
-| Peer assessment without assessment criteria. |  | [paper](https://doi.org/10.1080/03075079.2013.821974) | | | |
-| Assessing mathematical problem solving using comparative judgement. | |   | | | |
+| Title        | Authors | Publication |  Paper  |  Code  | Tags | Notes |
+| --------     | :-----: | :-----: |  :----: | :----: |----|----|
+| Peer assessment without assessment criteria. | Ian Jones, Lara Alcock | Studies in Higher Education  | [paper](https://doi.org/10.1080/03075079.2013.821974) | | | |
+| Assessing mathematical problem solving using comparative judgement. | Ian Jones, Malcolm Swan, Alastair Pollitt  | International Journal of Science and Mathematics Education | [paper](https://doi.org/10.1007/s10763-013-9497-6)  | | | |
 
 
 ## 2013
 
-| Title        | Publication |  Paper  |  Code  | Tags | Notes |
-| --------     | :-----: |  :----: | :----: |----|----|
-| Measuring conceptual understanding The case of fractions. | | [paper](https://doi.org/10.1007/s10763-013-9497-6) | |
+| Title        | Authors | Publication |  Paper  |  Code  | Tags | Notes |
+| --------     | :-----: | :-----: |  :----: | :----: |----|----|
+| Measuring conceptual understanding: The case of fractions. | Ian Jones, Matthew Inglis, Camilla Gilmore, Jeremy Hodgen, J. | Proceedings of the 37th Conference of the International Group for the Psychology of Mathematics Education | [paper](https://doi.org/10.1007/s10763-013-9497-6](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=2aa62501254b1a569fc666772fe740c62a893bd3)) | |
 
