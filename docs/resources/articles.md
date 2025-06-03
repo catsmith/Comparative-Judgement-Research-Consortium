@@ -7,19 +7,18 @@ title: Articles
 | Title        | Authors | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: | :-----: |  :----: | :----: |----|----|
 | Comparative judgement modelling to map forced marriage at local levels |  Rowland Seymour, Albert Nyarko-Agyei, Helen McCabe, Katie Severn, David Sirl, Theodore Kypraios, Adam Taylor | Ann. Appl. Stat. 19(1): 419-439.  | [paper](https://doi.org/10.1214/24-AOAS1966) | [speedyBBT](https://cran.r-project.org/package=speedyBBT) | | |
-| Sleep supports consolidation of newly learned mathematical concepts. | John J Shaw,  Marie-Josee Bisson | Quarterly Journal of Experimental Psychology | [paper](https://doi.org/10.1177/17470218251317885) || | |
 | Enabling Beam Search for Language Model-Based Text-to-Speech Synthesis | Zehai Tu, Guangyan Zhang, Yiting Lu, Adaeze Adigwe, Simon King, Yiwen Guo | ICASSP 2025 | [paper](https://doi.org/10.1109/ICASSP49660.2025.10890055) || | |
-
-
+| Sleep supports consolidation of newly learned mathematical concepts. | John J Shaw,  Marie-Josee Bisson | Quarterly Journal of Experimental Psychology | [paper](https://doi.org/10.1177/17470218251317885) || | |
 
 ## 2024
 
 | Title        | Authors | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: | :-----: |  :----: | :----: |----|----|
-|Scalable Bayesian inference for Bradley–Terry models with ties: an application to honour based abuse|  Rowland Seymour, Fabian Hernandez |Journal of Applied Statistics|[Paper](https://www.tandfonline.com/doi/full/10.1080/02664763.2024.2436608)|[speedyBBT R Pakcage](https://cran.r-project.org/package=speedyBBT) [Data Collection Interface](https://github.com/HiddenHarmsHub/comparison-interface)| |  |
 | Comparative judgement in education research | Ian Jones, Ben Davies | International Journal of Research & Method in Education. 47(2) | [paper](https://doi.org/10.1080/1743727X.2023.2242273) || | [further guidance](https://tinyurl.com/NMM4researchers) |
-| Testing the Relationship of Linguistic Complexity to Second Language Learners’ Comparative Judgment on Text Difficulty | Xiaopeng Zhang, Xiaofei Lu | Language Learning, 74(3) | [paper](https://doi.org/10.1111/lang.12633) | [data](https://osf.io/qxgte/?view_only=973c0b7901354a41a71c3741204be20a) | | |
 | Do Mathematicians Agree about Mathematical Beauty? | Rentuya Sa, Lara Alcock, Matthew Inglis, Fenner Stanley Tanswell  | Review of Philosophy and Psychology | [paper](https://doi.org/10.1007/s13164-022-00669-3) | | |
+|Scalable Bayesian inference for Bradley–Terry models with ties: an application to honour based abuse|  Rowland Seymour, Fabian Hernandez |Journal of Applied Statistics|[Paper](https://www.tandfonline.com/doi/full/10.1080/02664763.2024.2436608)|[speedyBBT R Pakcage](https://cran.r-project.org/package=speedyBBT) [Data Collection Interface](https://github.com/HiddenHarmsHub/comparison-interface)| |  |
+| Testing the Relationship of Linguistic Complexity to Second Language Learners’ Comparative Judgment on Text Difficulty | Xiaopeng Zhang, Xiaofei Lu | Language Learning, 74(3) | [paper](https://doi.org/10.1111/lang.12633) | [data](https://osf.io/qxgte/?view_only=973c0b7901354a41a71c3741204be20a) | | |
+
 
 ## 2023
 
@@ -29,20 +28,21 @@ title: Articles
 | Learning words with unfamiliar orthography: The role of cognitive abilities | Marie-Josée Bisson | Studies in Second Language Acquisition, 45(4) | [paper](https://doi.org/10.1017/S0272263122000390) | |  |
 | The Effects of Concreteness on Mathematical Manipulative Choice | Megan Foulkes, Francesco Sella, Theresa Elise Wege, Camilla Gilmore | Mind, Brain, and Education, 17(3) | [paper](https://doi.org/10.1111/mbe.12374) | [data](https://osf.io/grf49/?view_only=cf864ec044df48d8bb535f1f0e63ac74) ||
 
+
 ## 2022
 
 | Title        | Authors | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: | :-----: |  :----: | :----: |----|----|
-| Using Elo rating as a metric for comparative judgement in educational assessment | Andy Gray, Alma Rahat, Tom Crick, Stephen Lindsay, Darren Wallace | ACM | [paper](https://doi.org/10.1145/3551708.3556204) | | |
 | A diagnostic framework for the Bradley–Terry model | Weichen Wu , Nynke Niezink , Brian Junker | Journal of the Royal Statistical Society: Series A (Statistics in Society) |  | [paper](https://doi.org/10.1111/rssa.12959) | | |
+| Using Elo rating as a metric for comparative judgement in educational assessment | Andy Gray, Alma Rahat, Tom Crick, Stephen Lindsay, Darren Wallace | ACM | [paper](https://doi.org/10.1145/3551708.3556204) | | |
 
 
 ## 2021
 
 | Title        | Authors | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: | :-----: |  :----: | :----: |----|----|
-| The Bayesian Spatial Bradley–Terry model: Urban deprivation modelling in Tanzania | Rowland G. Seymour, David Sirl, Simon P. Preston, Ian L. Dryden, Madeleine J. A. Ellis, Bertrand Perrat, James Goulding | Journal of the Royal Statistical Society: Series C| [paper](https://doi.org/10.1111/rssc.12532)  |[BSBT R Package](https://github.com/rowlandseymour/BSBT) | | |
 | Improving Self-Reflection Assessment Practices: Comparative Judgment as an Alternative to Rubrics. | Liesje Coertjens, Marije Lesterhuis, Benedicte Y. De Winter, Maarten Goossens, Sven De Maeyer, Nele R. M. Michels | Teaching and Learning in Medicine  | [paper](https://doi.org/10.1080/10401334.2021.1877709)  | | | |
+| The Bayesian Spatial Bradley–Terry model: Urban deprivation modelling in Tanzania | Rowland G. Seymour, David Sirl, Simon P. Preston, Ian L. Dryden, Madeleine J. A. Ellis, Bertrand Perrat, James Goulding | Journal of the Royal Statistical Society: Series C| [paper](https://doi.org/10.1111/rssc.12532)  |[BSBT R Package](https://github.com/rowlandseymour/BSBT) | | |
 | What do mathematicians mean by proof? A comparative-judgement study of students’ and mathematicians’ views. | Ben Davies, Lara Alcock, Ian Jones | The Journal of Mathematical Behavior | [paper](https://doi.org/10.1016/j.jmathb.2020.100824) | | | |
 
 
@@ -57,8 +57,9 @@ title: Articles
 
 | Title        | Authors | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: | :-----: |  :----: | :----: |----|----|
-| Teaching using contextualised and decontextualised representations: Examining the case of differential calculus through a comparative judgement technique. | Marie-Josée Bisson, Camilla Gilmore, Matthew Inglis, Ian Jones| Research in Mathematics Education. | [paper](https://doi.org/10.1080/14794802.2019.1692060) | | | |
 | Crop variety management for climate adaptation supported by citizen science | Jacob van Etten, Kauê de Sousa, Amílcar Aguilar, Jonathan Steinke | Proceedings of the National Academy of Sciences of the United States of America | [paper](https://doi.org/10.1073/pnas.1813720116) | [data](https://doi.org/10.7910/DVN/4ICF6W) | |
+| Teaching using contextualised and decontextualised representations: Examining the case of differential calculus through a comparative judgement technique. | Marie-Josée Bisson, Camilla Gilmore, Matthew Inglis, Ian Jones| Research in Mathematics Education. | [paper](https://doi.org/10.1080/14794802.2019.1692060) | | | |
+
 
 ## 2018
 
@@ -73,16 +74,18 @@ Pages 43-58 | Received 23 Dec 2016, Ac | Assessment in Education: Principles, Po
 
 | Title        | Authors | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: | :-----: |  :----: | :----: |----|----|
+| An investigation of construct relevant and irrelevant features of mathematics problem-solving questions using comparative judgement and Kelly’s Repertory Grid. | Stephen Holmes, Qingping He, Michelle Meadows| Research in Mathematics Education  | [paper](https://doi.org/10.1080/14794802.2017.1334576)  | | | |
 | Frozen suit: designing a changeable stiffness suit and its application to increase realism in games. | Ahmed Al Maimani, Anne Roudaut | Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems | [paper](https://doi.org/10.1145/3025453.3025655) | |
 | The complexity of assessing student work using comparative judgment: The moderating role of decision accuracy.| Tine van Daal, Marije Lesterhuis, Liesje Coertjens, Liesje Coertjens, Marie-Thérèse van de Kamp, Vincent Donche, Vincent Donche, Sven De Maeyer, Sven De Maeyer | Frontiers in Education | [paper](https://doi.org/10.3389/feduc.2017.00044) | | | |
-| An investigation of construct relevant and irrelevant features of mathematics problem-solving questions using comparative judgement and Kelly’s Repertory Grid. | Stephen Holmes, Qingping He, Michelle Meadows| Research in Mathematics Education  | [paper](https://doi.org/10.1080/14794802.2017.1334576)  | | | |
+
 
 ## 2016
 
 | Title        | Authors | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: | :-----: |  :----: | :----: |----|----|
-| Measuring conceptual understanding using comparative judgement. | Marie-Josée Bisson, Camilla Gilmore, Matthew Inglis, Ian Jones | International Journal of Research in Undergraduate Mathematics Education | [paper](https://doi.org/10.1007/s40753-016-0024-3) | |
 | Fifty years of A-level mathematics: Have standards changed? | Ian Jones, Chris Wheadon, Sara Humphries, Matthew Inglis | British Educational Research Journal | [paper](https://doi.org/10.1002/berj.3224) | | | [open version](https://mjinglis.github.io/files/BERJpre.pdf) |
+| Measuring conceptual understanding using comparative judgement. | Marie-Josée Bisson, Camilla Gilmore, Matthew Inglis, Ian Jones | International Journal of Research in Undergraduate Mathematics Education | [paper](https://doi.org/10.1007/s40753-016-0024-3) | |
+
 
 
 ## 2015
