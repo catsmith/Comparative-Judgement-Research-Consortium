@@ -65,8 +65,8 @@ title: Articles
 
 | Title        | Authors | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: | :-----: |  :----: | :----: |----|----|
-| The effect of adaptivity on the reliability coefficient in adaptive comparative judgement. | Tom Bramley &Sylvia Vitello
-Pages 43-58 | Received 23 Dec 2016, Ac | Assessment in Education: Principles, Policy & Practice. | [paper](https://doi.org/10.1080/0969594x.2017.1418734) |  |  | |
+| Free-response tasks in primary mathematics: a window on students’ thinking | Jodie Hunter, Ian Jones | Proceedings of the 41st annual conference of the Mathematics Education Research Group of Australasia | [paper](https://eric.ed.gov/?id=ED592426) | | | |
+| The effect of adaptivity on the reliability coefficient in adaptive comparative judgement. | Tom Bramley, Sylvia Vitello | Assessment in Education: Principles, Policy & Practice. | [paper](https://doi.org/10.1080/0969594x.2017.1418734) |  |  | |
 | Why rate when you could compare? Using the “EloChoice” package to assess pairwise comparisons of perceived physical strength. | Andrew P. Clark, Kate L. Howard, Andy T. Woods, Ian S. Penton-Voak, Christof Neumann | PLoS ONE | [paper](https://doi.org/10.1080/0969594X.2017.1418734) | | |
 
 
@@ -76,6 +76,7 @@ Pages 43-58 | Received 23 Dec 2016, Ac | Assessment in Education: Principles, Po
 | --------     | :-----: | :-----: |  :----: | :----: |----|----|
 | An investigation of construct relevant and irrelevant features of mathematics problem-solving questions using comparative judgement and Kelly’s Repertory Grid. | Stephen Holmes, Qingping He, Michelle Meadows| Research in Mathematics Education  | [paper](https://doi.org/10.1080/14794802.2017.1334576)  | | | |
 | Frozen suit: designing a changeable stiffness suit and its application to increase realism in games. | Ahmed Al Maimani, Anne Roudaut | Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems | [paper](https://doi.org/10.1145/3025453.3025655) | |
+| Peer assessment of mathematical understanding using comparative judgement | Ian Jones, David Sirl | Nordic Studies in Mathematics Education | [paper](https://lens.org/094-711-115-442-10X) | | | |
 | The complexity of assessing student work using comparative judgment: The moderating role of decision accuracy.| Tine van Daal, Marije Lesterhuis, Liesje Coertjens, Liesje Coertjens, Marie-Thérèse van de Kamp, Vincent Donche, Vincent Donche, Sven De Maeyer, Sven De Maeyer | Frontiers in Education | [paper](https://doi.org/10.3389/feduc.2017.00044) | | | |
 
 
