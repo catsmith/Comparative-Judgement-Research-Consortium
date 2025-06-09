@@ -14,10 +14,12 @@ title: Articles
 
 | Title        | Authors | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: | :-----: |  :----: | :----: |----|----|
-| Comparative judgement in education research | Ian Jones, Ben Davies | International Journal of Research & Method in Education. 47(2) | [paper](https://doi.org/10.1080/1743727X.2023.2242273) || | [further guidance](https://tinyurl.com/NMM4researchers) |
+| Comparative judgement in education research | Ian Jones, Ben Davies | International Journal of Research & Method in Education. | [paper](https://doi.org/10.1080/1743727X.2023.2242273) || | [further guidance](https://tinyurl.com/NMM4researchers) |
 | Do Mathematicians Agree about Mathematical Beauty? | Rentuya Sa, Lara Alcock, Matthew Inglis, Fenner Stanley Tanswell  | Review of Philosophy and Psychology | [paper](https://doi.org/10.1007/s13164-022-00669-3) | | |
 |Scalable Bayesian inference for Bradley–Terry models with ties: an application to honour based abuse|  Rowland Seymour, Fabian Hernandez |Journal of Applied Statistics|[Paper](https://www.tandfonline.com/doi/full/10.1080/02664763.2024.2436608)|[speedyBBT R Pakcage](https://cran.r-project.org/package=speedyBBT) [Data Collection Interface](https://github.com/HiddenHarmsHub/comparison-interface)| |  |
 | Testing the Relationship of Linguistic Complexity to Second Language Learners’ Comparative Judgment on Text Difficulty | Xiaopeng Zhang, Xiaofei Lu | Language Learning, 74(3) | [paper](https://doi.org/10.1111/lang.12633) | [data](https://osf.io/qxgte/?view_only=973c0b7901354a41a71c3741204be20a) | | |
+| Validity objections to comparative judgement | Ian Jones | Proceedings of FAME 1 – Feedback & Assessment in Mathematics Education | [paper](https://doi.org/10.5281/zenodo.14231455) | | | |
+
 
 
 ## 2023
@@ -33,8 +35,9 @@ title: Articles
 
 | Title        | Authors | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: | :-----: |  :----: | :----: |----|----|
-| A diagnostic framework for the Bradley–Terry model | Weichen Wu , Nynke Niezink , Brian Junker | Journal of the Royal Statistical Society: Series A (Statistics in Society) |  | [paper](https://doi.org/10.1111/rssa.12959) | | |
-| Using Elo rating as a metric for comparative judgement in educational assessment | Andy Gray, Alma Rahat, Tom Crick, Stephen Lindsay, Darren Wallace | ACM | [paper](https://doi.org/10.1145/3551708.3556204) | | |
+| A diagnostic framework for the Bradley–Terry model | Weichen Wu , Nynke Niezink , Brian Junker | Journal of the Royal Statistical Society: Series A (Statistics in Society) | [paper](https://doi.org/10.1111/rssa.12959) | | | |
+| Critiquing the rationales for using comparative judgement: a call for clarity | Kate Kelly, Mary Richardson, Talia Isaacs | Assessment in Education: Principles, Policy & Practice | [paper](https://doi.org/10.1080/0969594X.2022.2147901) | | | |
+| Using Elo rating as a metric for comparative judgement in educational assessment | Andy Gray, Alma Rahat, Tom Crick, Stephen Lindsay, Darren Wallace | ACM | [paper](https://doi.org/10.1145/3551708.3556204) | | | |
 
 
 ## 2021
