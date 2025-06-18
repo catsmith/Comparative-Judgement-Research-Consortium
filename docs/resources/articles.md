@@ -37,6 +37,7 @@ title: Articles
 | --------     | :-----: | :-----: |  :----: | :----: |----|----|
 | A diagnostic framework for the Bradley–Terry model | Weichen Wu , Nynke Niezink , Brian Junker | Journal of the Royal Statistical Society: Series A (Statistics in Society) | [paper](https://doi.org/10.1111/rssa.12959) | | | |
 | Critiquing the rationales for using comparative judgement: a call for clarity | Kate Kelly, Mary Richardson, Talia Isaacs | Assessment in Education: Principles, Policy & Practice | [paper](https://doi.org/10.1080/0969594X.2022.2147901) | | | |
+| Do mathematicians and undergraduates agree about explanation quality? | Tanya Evans, Juan Pablo Mejía-Ramos, Matthew Inglis | Educational Studies in Mathematics | [paper](https://doi.org/10.1007/s10649-022-10164-2) | [Data and code](https://doi.org/10.17028/rd.lboro.14213831.v1) | | | |
 | Using Elo rating as a metric for comparative judgement in educational assessment | Andy Gray, Alma Rahat, Tom Crick, Stephen Lindsay, Darren Wallace | ACM | [paper](https://doi.org/10.1145/3551708.3556204) | | | |
 
 
