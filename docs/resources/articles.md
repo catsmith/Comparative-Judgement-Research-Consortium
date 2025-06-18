@@ -15,8 +15,9 @@ title: Articles
 | Title        | Authors | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: | :-----: |  :----: | :----: |----|----|
 | Comparative judgement in education research | Ian Jones, Ben Davies | International Journal of Research & Method in Education. | [paper](https://doi.org/10.1080/1743727X.2023.2242273) || | [further guidance](https://tinyurl.com/NMM4researchers) |
-| Do Mathematicians Agree about Mathematical Beauty? | Rentuya Sa, Lara Alcock, Matthew Inglis, Fenner Stanley Tanswell  | Review of Philosophy and Psychology | [paper](https://doi.org/10.1007/s13164-022-00669-3) | | |
-|Scalable Bayesian inference for Bradley–Terry models with ties: an application to honour based abuse|  Rowland Seymour, Fabian Hernandez |Journal of Applied Statistics|[Paper](https://www.tandfonline.com/doi/full/10.1080/02664763.2024.2436608)|[speedyBBT R Pakcage](https://cran.r-project.org/package=speedyBBT) [Data Collection Interface](https://github.com/HiddenHarmsHub/comparison-interface)| |  |
+| Do Mathematicians Agree about Mathematical Beauty? | Rentuya Sa, Lara Alcock, Matthew Inglis, Fenner Stanley Tanswell  | Review of Philosophy and Psychology | [paper](https://doi.org/10.1007/s13164-022-00669-3) | | | |
+| Investigating insight and rigour as separate constructs in mathematical proof | Chris Sangwin, George Kinnear | Research in Mathematics Education | [paper](https://doi.org/10.1080/14794802.2024.2379301) | | | |
+|Scalable Bayesian inference for Bradley–Terry models with ties: an application to honour based abuse|  Rowland Seymour, Fabian Hernandez |Journal of Applied Statistics|[Paper](https://www.tandfonline.com/doi/full/10.1080/02664763.2024.2436608)|[speedyBBT R Pakcage](https://cran.r-project.org/package=speedyBBT) [Data Collection Interface](https://github.com/HiddenHarmsHub/comparison-interface)| |  | |
 | Testing the Relationship of Linguistic Complexity to Second Language Learners’ Comparative Judgment on Text Difficulty | Xiaopeng Zhang, Xiaofei Lu | Language Learning, 74(3) | [paper](https://doi.org/10.1111/lang.12633) | [data](https://osf.io/qxgte/?view_only=973c0b7901354a41a71c3741204be20a) | | |
 | Validity objections to comparative judgement | Ian Jones | Proceedings of FAME 1 – Feedback & Assessment in Mathematics Education | [paper](https://doi.org/10.5281/zenodo.14231455) | | | |
 
