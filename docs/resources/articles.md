@@ -6,7 +6,9 @@ title: Articles
 
 | Title        | Authors | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: | :-----: |  :----: | :----: |----|----|
+
 | Comparative judgement modelling to map forced marriage at local levels |  Rowland Seymour, Albert Nyarko-Agyei, Helen McCabe, Katie Severn, David Sirl, Theodore Kypraios, Adam Taylor | Ann. Appl. Stat. 19(1): 419-439.  | [paper](https://doi.org/10.1214/24-AOAS1966) | [speedyBBT](https://cran.r-project.org/package=speedyBBT) | | |
+| Comparative judgement as a research tool: A meta-analysis of application and reliability | George Kinnear, Ian Jones & Ben Davies | Behavior Research Methods | [paper](https://doi.org/10.3758/s13428-025-02744-w) | [data and code](https://doi.org/10.17605/OSF.IO/M5WTZ) | || 
 | Enabling Beam Search for Language Model-Based Text-to-Speech Synthesis | Zehai Tu, Guangyan Zhang, Yiting Lu, Adaeze Adigwe, Simon King, Yiwen Guo | ICASSP 2025 | [paper](https://doi.org/10.1109/ICASSP49660.2025.10890055) || | |
 | Sleep supports consolidation of newly learned mathematical concepts. | John J Shaw,  Marie-Josee Bisson | Quarterly Journal of Experimental Psychology | [paper](https://doi.org/10.1177/17470218251317885) || | |
 
