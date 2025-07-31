@@ -37,9 +37,11 @@ title: Articles
 
 | Title        | Authors | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: | :-----: |  :----: | :----: |----|----|
+| A comparative judgment approach to assessing Chinese Sign Language interpreting | Chao Han, Xiaoyan Xiao | Language Testing | [paper](https://doi.org/10.1177/02655322211038977) | | | [Supplementary](https://journals.sagepub.com/doi/abs/10.1177/02655322211038977#supplementary-materials) |
 | A diagnostic framework for the Bradley–Terry model | Weichen Wu , Nynke Niezink , Brian Junker | Journal of the Royal Statistical Society: Series A (Statistics in Society) | [paper](https://doi.org/10.1111/rssa.12959) | | | |
 | Critiquing the rationales for using comparative judgement: a call for clarity | Kate Kelly, Mary Richardson, Talia Isaacs | Assessment in Education: Principles, Policy & Practice | [paper](https://doi.org/10.1080/0969594X.2022.2147901) | | | |
 | Do mathematicians and undergraduates agree about explanation quality? | Tanya Evans, Juan Pablo Mejía-Ramos, Matthew Inglis | Educational Studies in Mathematics | [paper](https://doi.org/10.1007/s10649-022-10164-2) | [Data and code](https://doi.org/10.17028/rd.lboro.14213831.v1) | | | |
+| Imagining the Sun: using comparative judgement to assess the impact of cross-curricular solar physics workshops | Carol Davenport, Richard Morton | Journal of Science Communication | [paper](https://doi.org/10.22323/2.21060206) | | | |
 | Using Elo rating as a metric for comparative judgement in educational assessment | Andy Gray, Alma Rahat, Tom Crick, Stephen Lindsay, Darren Wallace | ACM | [paper](https://doi.org/10.1145/3551708.3556204) | | | |
 
 
@@ -57,6 +59,7 @@ title: Articles
 | Title        | Authors | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: | :-----: |  :----: | :----: |----|----|
 | Comparative judgement, proof summaries and proof comprehension. | Ben Davies, Lara Alcock, Ian Jones  | Educational Studies in Mathematics | [paper](https://doi.org/10.1007/s10649-020-09984-x)  | | | |
+| Rating the overall speech quality of hearing-impaired children by means of comparative judgements | Nathalie Boonen, Hanne Kloots, Steven Gillis | Journal of Communication Disorders | [paper](https://doi.org/10.1016/j.jcomdis.2019.105969) | | | |
 
 
 ## 2019
@@ -72,6 +75,7 @@ title: Articles
 | Title        | Authors | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: | :-----: |  :----: | :----: |----|----|
 | Free-response tasks in primary mathematics: a window on students’ thinking | Jodie Hunter, Ian Jones | Proceedings of the 41st annual conference of the Mathematics Education Research Group of Australasia | [paper](https://eric.ed.gov/?id=ED592426) | | | |
+| Scoring best-worst data in unbalanced many-item designs, with applications to crowdsourcing semantic judgments | Geoff Hollis | Behavior Research Methods | [paper](https://doi.org/10.3758/s13428-017-0898-2) | | | |
 | The effect of adaptivity on the reliability coefficient in adaptive comparative judgement. | Tom Bramley, Sylvia Vitello | Assessment in Education: Principles, Policy & Practice. | [paper](https://doi.org/10.1080/0969594x.2017.1418734) |  |  | |
 | Why rate when you could compare? Using the “EloChoice” package to assess pairwise comparisons of perceived physical strength. | Andrew P. Clark, Kate L. Howard, Andy T. Woods, Ian S. Penton-Voak, Christof Neumann | PLoS ONE | [paper](https://doi.org/10.1080/0969594X.2017.1418734) | | |
 
@@ -83,6 +87,7 @@ title: Articles
 | An investigation of construct relevant and irrelevant features of mathematics problem-solving questions using comparative judgement and Kelly’s Repertory Grid. | Stephen Holmes, Qingping He, Michelle Meadows| Research in Mathematics Education  | [paper](https://doi.org/10.1080/14794802.2017.1334576)  | | | |
 | Frozen suit: designing a changeable stiffness suit and its application to increase realism in games. | Ahmed Al Maimani, Anne Roudaut | Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems | [paper](https://doi.org/10.1145/3025453.3025655) | |
 | Peer assessment of mathematical understanding using comparative judgement | Ian Jones, David Sirl | Nordic Studies in Mathematics Education | [paper](https://lens.org/094-711-115-442-10X) | | | |
+| Testing alternative theoretical accounts of code-switching: Insights from comparative judgments of adjective–noun order | Hans Stadthagen-González, M Carmen Parafita Couto, C Alejandro Párraga, Markus F Damian | International Journal of Bilingualism | [paper](https://doi.org/10.1177/1367006917728390) | | | |
 | The complexity of assessing student work using comparative judgment: The moderating role of decision accuracy.| Tine van Daal, Marije Lesterhuis, Liesje Coertjens, Liesje Coertjens, Marie-Thérèse van de Kamp, Vincent Donche, Vincent Donche, Sven De Maeyer, Sven De Maeyer | Frontiers in Education | [paper](https://doi.org/10.3389/feduc.2017.00044) | | | |
 
 
@@ -91,7 +96,8 @@ title: Articles
 | Title        | Authors | Publication |  Paper  |  Code  | Tags | Notes |
 | --------     | :-----: | :-----: |  :----: | :----: |----|----|
 | Fifty years of A-level mathematics: Have standards changed? | Ian Jones, Chris Wheadon, Sara Humphries, Matthew Inglis | British Educational Research Journal | [paper](https://doi.org/10.1002/berj.3224) | | | [open version](https://mjinglis.github.io/files/BERJpre.pdf) |
-| Measuring conceptual understanding using comparative judgement. | Marie-Josée Bisson, Camilla Gilmore, Matthew Inglis, Ian Jones | International Journal of Research in Undergraduate Mathematics Education | [paper](https://doi.org/10.1007/s40753-016-0024-3) | |
+| Forced choice assessment of work related maladaptive personality traits. Preliminary evidence from an application of Thurstonian item response modeling | Nigel Guenole, Anna A. Brown, Andrew J. Cooper | Assessment | [paper](https://doi.org/10.1177/107319111664118) | | | 
+| Measuring conceptual understanding using comparative judgement. | Marie-Josée Bisson, Camilla Gilmore, Matthew Inglis, Ian Jones | International Journal of Research in Undergraduate Mathematics Education | [paper](https://doi.org/10.1007/s40753-016-0024-3) | | | |
 
 
 
