@@ -61,6 +61,8 @@ title: Articles
 | --------     | :-----: | :-----: |  :----: | :----: |----|----|
 | Comparative judgement, proof summaries and proof comprehension. | Ben Davies, Lara Alcock, Ian Jones  | Educational Studies in Mathematics | [paper](https://doi.org/10.1007/s10649-020-09984-x)  | | | |
 | Rating the overall speech quality of hearing-impaired children by means of comparative judgements | Nathalie Boonen, Hanne Kloots, Steven Gillis | Journal of Communication Disorders | [paper](https://doi.org/10.1016/j.jcomdis.2019.105969) | | | [open access (PDF)](https://www.clips.ua.ac.be/~gillis/assets/pdfs/2020_JComDis_Rating_1-s2.0-S0021992418302119-main(4).pdf) |
+| The visual complexity of coronal mass ejections follows the solar cycle. | S. R. Jones, C. J. Scott, L. A. Barnard, R. Highfield, C. J. Lintott, E. Baeten | Space Weather | [paper](https://doi.org/10.1029/2020SW002556) | [data](https://figshare.com/s/7e0270daa8153bb0416e) [code](https://github.com/S-hannon/complexity-solar-cycle) | | |
+
 
 
 ## 2019
