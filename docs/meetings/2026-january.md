@@ -31,7 +31,7 @@ Funded by EPSRC
 **14:00** **Talk 3.** Lara Alcock, Loughborough University. 
 <br> *Measuring believability in mathematics.*
 
-**14:30** **Talk 4.** J Ben Lauderdale, UCL. 
+**14:30** **Talk 4.** Ben Lauderdale, UCL. 
 <br> *Studying individual-level attitudes towards important problems using pairwise comparisons.*
 
 **15:00** **Talk 5.** Camilla Gilmore, Loughborough University. 
