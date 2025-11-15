@@ -34,6 +34,6 @@ Join us for drinks and food in Leicester.
 
 ## Conveners
 
-Ian Jones, Loughborough University  
-Marie-Josée Bisson, De Montfort University
-Rowland Seymour, University of Birmingham 
+- Ian Jones, Loughborough University
+- Marie-Josée Bisson, De Montfort University
+- Rowland Seymour, University of Birmingham 
