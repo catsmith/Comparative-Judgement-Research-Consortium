@@ -35,16 +35,6 @@ jobs:
           ruby-version: '3.4'
           bundler-cache: true
 
-      # - name: Install dependencies
-      #   run: |
-      #     gem install bundler -v 2.4.22
-      #     bundle install
-      # - name: Fix URI gem conflict
-      #   run: |
-      #     gem uninstall uri -v 0.10.0
-      #     gem install uri -v 1.0.3
-      
-
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
