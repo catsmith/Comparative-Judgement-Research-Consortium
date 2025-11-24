@@ -19,3 +19,6 @@ sidebar:
         - software
     - reading_group
     - barriers
+
+plugins:
+  - jekyll-scholar

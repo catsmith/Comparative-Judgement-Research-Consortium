@@ -28,13 +28,33 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.4'
+          bundler-cache: true
+
+      # - name: Install dependencies
+      #   run: |
+      #     gem install bundler -v 2.4.22
+      #     bundle install
+      # - name: Fix URI gem conflict
+      #   run: |
+      #     gem uninstall uri -v 0.10.0
+      #     gem install uri -v 1.0.3
+      
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
+
+
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./docs
           destination: ./_site
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
