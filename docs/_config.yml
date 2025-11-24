@@ -4,6 +4,8 @@ plugins:
   - jekyll-scholar
   - jekyll-remote-theme
 
+baseurl: '/Comparative-Judgement-Research-Consortium'
+
 scholar:
   style: apa
   locale: en
