@@ -3,6 +3,11 @@ title: Comparative Judgement Research Consortium
 plugins:
   - jekyll-scholar
 
+scholar:
+  style: ieee
+  locale: en
+  bibliography: bibliography.bib
+
 remote_theme: HiddenHarmsHub/jekyll-theme-zendesk-garden@main
 search_enabled: true
 auto_page_title: true
