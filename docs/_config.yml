@@ -4,9 +4,8 @@ plugins:
   - jekyll-scholar
 
 scholar:
-  style: ieee
+  style: apa
   locale: en
-  bibliography: bibliography.bib
 
 remote_theme: HiddenHarmsHub/jekyll-theme-zendesk-garden@main
 search_enabled: true
