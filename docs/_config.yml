@@ -2,6 +2,7 @@ title: Comparative Judgement Research Consortium
 
 plugins:
   - jekyll-scholar
+  - jekyll-remote-theme
 
 scholar:
   style: apa
