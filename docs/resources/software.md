@@ -17,4 +17,4 @@ title: Software
 - [hyper2](https://cran.r-project.org/package=hyper2) The hyper2 package provides functionality to work with extensions of the Bradley-Terry probability model such as Plackett-Luce likelihood including team strengths and reified entities (monsters).
 - [comparative-judgement](https://pypi.org/project/comparative-judgement/) A Python package that enables analysis of pair-wise comparisons for Bayesian Comparative Judgement (BCJ), multi-criteria Bayesian Comparative Judgement (MBCJ) and the BTM model.
 
-{% bibliography %}
+{% cite ruby %}
