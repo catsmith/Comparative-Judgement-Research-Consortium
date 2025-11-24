@@ -9,6 +9,7 @@ scholar:
   locale: en
 
 remote_theme: HiddenHarmsHub/jekyll-theme-zendesk-garden@main
+repository: catsmith/Comparative-Judgement-Research-Consortium
 search_enabled: true
 auto_page_title: true
 sidebar:
