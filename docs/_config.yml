@@ -7,7 +7,7 @@ plugins:
 baseurl: '/Comparative-Judgement-Research-Consortium'
 
 scholar:
-  style: apa
+  style: ./_styles/apa_hyperlinks.csl
   locale: en
 
 remote_theme: HiddenHarmsHub/jekyll-theme-zendesk-garden@main
