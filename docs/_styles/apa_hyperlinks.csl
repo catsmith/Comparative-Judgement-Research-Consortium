@@ -20,17 +20,14 @@
     <text variable="container-title"/>
   </macro>
 
-  <macro name="doi-url">
-    <group delimiter=" ">
-      <text value="DOI:" suffix=" ">
-        <link href="https://doi.org/{DOI}"/>
-      </text>
-      <text variable="DOI" prefix="https://doi.org/"/>
-      <text value="URL:" suffix=" ">
-        <link href="{URL}"/>
-      </text>
-      <text variable="URL"/>
-    </group>
+  <macro name="urlaccess">
+    <choose>
+      <if variable="URL">
+        <text variable="URL"
+          prefix="&lt;a style='margin-right:20px' href=&#34;"
+          suffix="&#34;&gt;[url]&lt;/a&gt;"/>
+      </if>
+    </choose>    
   </macro>
 
   <citation>
