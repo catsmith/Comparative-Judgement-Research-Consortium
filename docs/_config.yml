@@ -10,6 +10,8 @@ baseurl: '/Comparative-Judgement-Research-Consortium'
 scholar:
   style: ./_styles/apa_hyperlinks.csl
   locale: en
+  sort_by: author
+  order: ascending
 
 remote_theme: HiddenHarmsHub/jekyll-theme-zendesk-garden@main
 repository: catsmith/Comparative-Judgement-Research-Consortium
