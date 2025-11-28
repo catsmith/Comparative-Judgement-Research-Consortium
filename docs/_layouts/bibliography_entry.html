@@ -2,5 +2,5 @@
 ---
 <style>ol.bibliography li { list-style: none }</style>
 
-{{ reference }} {% if entry.url %}<a href="{{ entry.url }}">{{ entry.url }}</a>{% endif %}
+{{ reference }} {% if entry.url %}<a href="{{ entry.url }}">{{ entry.url }}</a>{% else %} {% if entry.doi %}<a href="https://doi.org/{{ entry.url }}">{{ entry.doi }}</a>{% endif %}{% endif %}
 
