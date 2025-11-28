@@ -1,9 +1,4 @@
 ---
 ---
-{{ reference }}
+{{ reference }} {% if entry.url %}<a href="{{ entry.url }}">entry.url</a>{% endif %}
 
-{% if entry.abstract %}
-<p>{{ entry.abstract }}</p>
-{% endif %}
-
-<pre>{{ entry.bibtex }}</pre>
