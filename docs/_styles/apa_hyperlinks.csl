@@ -1827,7 +1827,7 @@
         </else>
       </choose>
       <text variable="references"/>
-      <text macro="access"/>
+      <!-- <text macro="access"/> -->
     </group>
   </macro>
   <macro name="title-legal">
@@ -2124,7 +2124,7 @@
               <text macro="event"/>
               <text macro="publisher"/>
             </group>
-            <text macro="access"/>
+            <!-- <text macro="access"/> -->
             <text macro="publication-history"/>
           </group>
         </else>
