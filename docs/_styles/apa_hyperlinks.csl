@@ -1696,7 +1696,6 @@
               </group>
             </if>
           </choose>
-          <text value="This is my url"/>
           <text variable="URL"/>
         </group>
       </else-if>
