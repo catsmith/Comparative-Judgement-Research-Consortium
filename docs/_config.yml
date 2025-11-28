@@ -9,7 +9,7 @@ baseurl: '/Comparative-Judgement-Research-Consortium'
 
 scholar:
   source: _bibliography
-  style: ieee #./_styles/apa_hyperlinks.csl
+  style: ./_styles/apa_hyperlinks.csl
   locale: en
   sort_by: author
   order: ascending
