@@ -52,6 +52,26 @@ The rest of the page should be written in GitHub markdown.
 
 The website is setup to use auto page titles which means a `<h1>` header will be created using the *title* entry from the header of the file. This means any headers added to the page should start at level 2 with `##`. This setting can be turned off in the config file and if that is done a `<h1>` title can be added to each page with `#`.
 
+## Bibliography related pages (Jekyll-Scholar)
+
+The build workflow for the site includes the [Jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) plugin.
+
+This plugin automatically generates a bibliography page from the `references.bib` file in the `_bibliography` folder.
+
+The settings for the jekyll-scholar plugin can be found in the `_config.yml` file under `scholar:`.
+
+The current reference file is apa but modified to remove the DOI/URL from the main reference and instead replace it as a hyperlink.
+The two files controlling this are `_styles/apa_hyperlinks.csl` and `_layouts/bibliography_entry.html`.
+
+Entries can be grouped and ordered in different ways in te settings and also split into categories such as years using a filter string.
+See the Jekyll-scholar readme for the options.
+
+Entries in the bibtex file can also be accessed elsewhere on the site either as citations or references.
+An example of this in action can currently be seen on the `new_articles.md` page.
+
+Jekyll-scholar cannot be used in the default GitHub pages build workflow so a CI workflow is provided in `.github/workflows`.
+This will require some changes to the pages setup when this PR is merged.
+
 ## Deployment
 
-Every push to the main branch will trigger a new deployment of the website automatically. If you are doing work that is not ready to be depoyed please ensure you use branches and only merge to main when it is ready to go live.
+Every push to the main branch will trigger a new deployment of the website automatically. If you are doing work that is not ready to be deployed please ensure you use branches and only merge to main when it is ready to go live.
