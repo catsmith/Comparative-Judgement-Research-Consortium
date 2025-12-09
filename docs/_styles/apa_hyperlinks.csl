@@ -1680,10 +1680,11 @@
       </group>
     </group>
   </macro>
+  <!-- access macro not used - bibliography_entry.html adds a hyperlink instead -->
   <macro name="access">
     <choose>
       <if variable="DOI" match="any">
-        <text variable="DOI" prefix="DOI USED https://doi.org/"/>
+        <text variable="DOI" prefix="https://doi.org/"/>
       </if>
       <else-if variable="URL">
         <group delimiter=" ">
@@ -1696,7 +1697,7 @@
               </group>
             </if>
           </choose>
-          <text variable="URL" prefix="URL USED "/>
+          <text variable="URL"/>
         </group>
       </else-if>
     </choose>
@@ -2123,7 +2124,7 @@
               <text macro="event"/>
               <text macro="publisher"/>
             </group>
-            <!-- <text macro="access"/> -->
+            <!-- <text macro="access"/> access macro not used - bibliography_entry.html adds a hyperlink instead-->
             <text macro="publication-history"/>
           </group>
         </else>
