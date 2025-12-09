@@ -1683,7 +1683,7 @@
   <macro name="access">
     <choose>
       <if variable="DOI" match="any">
-        <text variable="DOI" prefix="https://doi.org/"/>
+        <text variable="DOI" prefix="DOI USED https://doi.org/"/>
       </if>
       <else-if variable="URL">
         <group delimiter=" ">
@@ -1696,7 +1696,7 @@
               </group>
             </if>
           </choose>
-          <text variable="URL"/>
+          <text variable="URL" prefix="URL USED "/>
         </group>
       </else-if>
     </choose>
